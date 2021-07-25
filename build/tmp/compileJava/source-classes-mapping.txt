@@ -40,3 +40,11 @@ chapter05/Mapping.java
  chapter05.Mapping
 chapter05/Finding.java
  chapter05.Finding
+chapter05/Reducing.java
+ chapter05.Reducing
+chapter05/Trader.java
+ chapter05.Trader
+chapter05/Transaction.java
+ chapter05.Transaction
+chapter05/Practice.java
+ chapter05.Practice
