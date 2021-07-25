@@ -1,0 +1,38 @@
+chapter03/Lambdas.java
+ chapter03.Lambdas
+ chapter03.Lambdas$ApplePredicate
+chapter03/Color.java
+ chapter03.Color
+chapter04/StreamBasic.java
+ chapter04.StreamBasic
+ chapter04.StreamBasic$1
+chapter04/StreamVSCollection.java
+ chapter04.StreamVSCollection
+chapter03/Apple.java
+ chapter03.Apple
+chapter02/FilteringApples.java
+ chapter02.FilteringApples
+ chapter02.FilteringApples$Apple
+ chapter02.FilteringApples$AppleColorPredicate
+ chapter02.FilteringApples$AppleRedHeavyPredicate
+ chapter02.FilteringApples$AppleWeightPredicate
+ chapter02.FilteringApples$Color
+ chapter02.FilteringApples$Predicate
+chapter04/Dish.java
+ chapter04.Dish
+ chapter04.Dish$Type
+chapter03/Sort.java
+ chapter03.Sort
+ chapter03.Sort$1
+ chapter03.Sort$AppleComparator
+chapter04/HighCaloriesNames.java
+ chapter04.HighCaloriesNames
+chapter01/FilteringApples.java
+ chapter01.FilteringApples
+ chapter01.FilteringApples$Apple
+ chapter01.FilteringApples$Predicate
+chapter03/ExecutingAround.java
+ chapter03.ExecutingAround
+ chapter03.ExecutingAround$BufferedReaderProcessor
+chapter05/Filtering.java
+ chapter05.Filtering
