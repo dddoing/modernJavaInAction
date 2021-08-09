@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class ExecutingAround {
 
-    private static final String FILE = ExecutingAround.class.getResource("./data.txt").getFile();
+    private static final String FILE = ExecutingAround.class.getResource("chapter05/data.txt").getFile();
 
     public static void main(String... args) throws IOException {
         //

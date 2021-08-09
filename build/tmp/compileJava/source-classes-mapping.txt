@@ -1,15 +1,19 @@
 chapter03/Apple.java
  chapter03.Apple
-chapter01/FilteringApples.java
- chapter01.FilteringApples
- chapter01.FilteringApples$Apple
- chapter01.FilteringApples$Predicate
+chapter05/Mapping.java
+ chapter05.Mapping
 chapter03/Sort.java
  chapter03.Sort
  chapter03.Sort$1
  chapter03.Sort$AppleComparator
+chapter01/FilteringApples.java
+ chapter01.FilteringApples
+ chapter01.FilteringApples$Apple
+ chapter01.FilteringApples$Predicate
 chapter04/HighCaloriesNames.java
  chapter04.HighCaloriesNames
+chapter05/Reducing.java
+ chapter05.Reducing
 chapter03/ExecutingAround.java
  chapter03.ExecutingAround
  chapter03.ExecutingAround$BufferedReaderProcessor
@@ -21,8 +25,12 @@ chapter03/Color.java
 chapter04/StreamBasic.java
  chapter04.StreamBasic
  chapter04.StreamBasic$1
+chapter05/Trader.java
+ chapter05.Trader
 chapter04/StreamVSCollection.java
  chapter04.StreamVSCollection
+chapter05/Practice.java
+ chapter05.Practice
 chapter02/FilteringApples.java
  chapter02.FilteringApples
  chapter02.FilteringApples$Apple
@@ -36,15 +44,20 @@ chapter04/Dish.java
  chapter04.Dish$Type
 chapter05/Filtering.java
  chapter05.Filtering
-chapter05/Mapping.java
- chapter05.Mapping
 chapter05/Finding.java
  chapter05.Finding
-chapter05/Reducing.java
- chapter05.Reducing
-chapter05/Trader.java
- chapter05.Trader
+chapter05/NumericStreams.java
+ chapter05.NumericStreams
 chapter05/Transaction.java
  chapter05.Transaction
-chapter05/Practice.java
- chapter05.Practice
+chapter05/BuildingStreams.java
+ chapter05.BuildingStreams
+ chapter05.BuildingStreams$1
+ chapter05.BuildingStreams$2
+chapter06/Dish.java
+ chapter06.Dish
+ chapter06.Dish$Type
+chapter06/Reducing.java
+ chapter06.Reducing
+chapter06/Summarizing.java
+ chapter06.Summarizing
