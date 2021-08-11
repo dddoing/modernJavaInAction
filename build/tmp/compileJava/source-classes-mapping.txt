@@ -64,3 +64,7 @@ chapter05/Transaction.java
 chapter06/Grouping.java
  chapter06.Grouping
  chapter06.Grouping$CaloricLevel
+chapter06/Partitioning.java
+ chapter06.Partitioning
+chapter06/PartitionPrimeNumbers.java
+ chapter06.PartitionPrimeNumbers
