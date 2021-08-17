@@ -1,0 +1,4 @@
+Benchmark                              Mode  Cnt    Score   Error  Units
+ParallelStreamBenchmark.iterativeSum   avgt   10    2.879 ± 0.145  ms/op
+ParallelStreamBenchmark.parallelSum    avgt   10  223.469 ± 8.809  ms/op
+ParallelStreamBenchmark.sequentialSum  avgt   10   66.510 ± 0.528  ms/op

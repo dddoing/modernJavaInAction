@@ -1,39 +1,26 @@
 chapter06/Reducing.java
  chapter06.Reducing
-chapter03/Apple.java
- chapter03.Apple
-chapter05/Mapping.java
- chapter05.Mapping
-chapter03/Sort.java
- chapter03.Sort
- chapter03.Sort$1
- chapter03.Sort$AppleComparator
 chapter05/BuildingStreams.java
  chapter05.BuildingStreams
  chapter05.BuildingStreams$1
  chapter05.BuildingStreams$2
 chapter04/HighCaloriesNames.java
  chapter04.HighCaloriesNames
-chapter05/Reducing.java
- chapter05.Reducing
 chapter03/ExecutingAround.java
  chapter03.ExecutingAround
  chapter03.ExecutingAround$BufferedReaderProcessor
-chapter03/Lambdas.java
- chapter03.Lambdas
- chapter03.Lambdas$ApplePredicate
+chapter07/ParallelStreams.java
+ chapter07.ParallelStreams
 chapter06/Dish.java
  chapter06.Dish
  chapter06.Dish$Type
-chapter03/Color.java
- chapter03.Color
+chapter06/CollectorHarness.java
+ chapter06.CollectorHarness
 chapter04/StreamBasic.java
  chapter04.StreamBasic
  chapter04.StreamBasic$1
-chapter05/Trader.java
- chapter05.Trader
-chapter04/StreamVSCollection.java
- chapter04.StreamVSCollection
+chapter06/Partitioning.java
+ chapter06.Partitioning
 chapter05/Practice.java
  chapter05.Practice
 chapter02/FilteringApples.java
@@ -44,13 +31,39 @@ chapter02/FilteringApples.java
  chapter02.FilteringApples$AppleWeightPredicate
  chapter02.FilteringApples$Color
  chapter02.FilteringApples$Predicate
-chapter01/FilteringApples.java
- chapter01.FilteringApples
- chapter01.FilteringApples$Apple
- chapter01.FilteringApples$Predicate
 chapter04/Dish.java
  chapter04.Dish
  chapter04.Dish$Type
+chapter05/Transaction.java
+ chapter05.Transaction
+chapter03/Apple.java
+ chapter03.Apple
+chapter05/Mapping.java
+ chapter05.Mapping
+chapter03/Sort.java
+ chapter03.Sort
+ chapter03.Sort$1
+ chapter03.Sort$AppleComparator
+chapter05/Reducing.java
+ chapter05.Reducing
+chapter06/ToListCollector.java
+ chapter06.ToListCollector
+chapter03/Lambdas.java
+ chapter03.Lambdas
+ chapter03.Lambdas$ApplePredicate
+chapter03/Color.java
+ chapter03.Color
+chapter05/Trader.java
+ chapter05.Trader
+chapter04/StreamVSCollection.java
+ chapter04.StreamVSCollection
+chapter06/Grouping.java
+ chapter06.Grouping
+ chapter06.Grouping$CaloricLevel
+chapter06/PartitionPrimeNumbers.java
+ chapter06.PartitionPrimeNumbers
+ chapter06.PartitionPrimeNumbers$PrimeNumbersCollectors
+ chapter06.PartitionPrimeNumbers$PrimeNumbersCollectors$1
 chapter05/Filtering.java
  chapter05.Filtering
 chapter05/Finding.java
@@ -59,18 +72,7 @@ chapter06/Summarizing.java
  chapter06.Summarizing
 chapter05/NumericStreams.java
  chapter05.NumericStreams
-chapter05/Transaction.java
- chapter05.Transaction
-chapter06/Grouping.java
- chapter06.Grouping
- chapter06.Grouping$CaloricLevel
-chapter06/Partitioning.java
- chapter06.Partitioning
-chapter06/ToListCollector.java
- chapter06.ToListCollector
-chapter06/PartitionPrimeNumbers.java
- chapter06.PartitionPrimeNumbers
- chapter06.PartitionPrimeNumbers$PrimeNumbersCollectors
- chapter06.PartitionPrimeNumbers$PrimeNumbersCollectors$1
-chapter06/CollectorHarness.java
- chapter06.CollectorHarness
+chapter01/FilteringApples.java
+ chapter01.FilteringApples
+ chapter01.FilteringApples$Apple
+ chapter01.FilteringApples$Predicate

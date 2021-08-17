@@ -1,0 +1,3 @@
+JMH S 33 chapter07.ParallelStreamBenchmark S 65 chapter07.generated.ParallelStreamBenchmark_sequentialSum_jmhTest S 13 sequentialSum S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms46 6 -Xms46 E E E U 12 MILLISECONDS E E 
+JMH S 33 chapter07.ParallelStreamBenchmark S 64 chapter07.generated.ParallelStreamBenchmark_iterativeSum_jmhTest S 12 iterativeSum S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms46 6 -Xms46 E E E U 12 MILLISECONDS E E 
+JMH S 33 chapter07.ParallelStreamBenchmark S 63 chapter07.generated.ParallelStreamBenchmark_parallelSum_jmhTest S 11 parallelSum S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms46 6 -Xms46 E E E U 12 MILLISECONDS E E 
