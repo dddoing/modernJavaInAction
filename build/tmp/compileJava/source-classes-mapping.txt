@@ -66,5 +66,11 @@ chapter06/Grouping.java
  chapter06.Grouping$CaloricLevel
 chapter06/Partitioning.java
  chapter06.Partitioning
+chapter06/ToListCollector.java
+ chapter06.ToListCollector
 chapter06/PartitionPrimeNumbers.java
  chapter06.PartitionPrimeNumbers
+ chapter06.PartitionPrimeNumbers$PrimeNumbersCollectors
+ chapter06.PartitionPrimeNumbers$PrimeNumbersCollectors$1
+chapter06/CollectorHarness.java
+ chapter06.CollectorHarness
