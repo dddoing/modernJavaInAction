@@ -11,6 +11,7 @@ chapter03/ExecutingAround.java
  chapter03.ExecutingAround$BufferedReaderProcessor
 chapter07/ParallelStreams.java
  chapter07.ParallelStreams
+ chapter07.ParallelStreams$Accumulator
 chapter06/Dish.java
  chapter06.Dish
  chapter06.Dish$Type
@@ -55,6 +56,10 @@ chapter03/Color.java
  chapter03.Color
 chapter05/Trader.java
  chapter05.Trader
+chapter01/FilteringApples.java
+ chapter01.FilteringApples
+ chapter01.FilteringApples$Apple
+ chapter01.FilteringApples$Predicate
 chapter04/StreamVSCollection.java
  chapter04.StreamVSCollection
 chapter06/Grouping.java
@@ -72,7 +77,7 @@ chapter06/Summarizing.java
  chapter06.Summarizing
 chapter05/NumericStreams.java
  chapter05.NumericStreams
-chapter01/FilteringApples.java
- chapter01.FilteringApples
- chapter01.FilteringApples$Apple
- chapter01.FilteringApples$Predicate
+chapter07/ForkJoinSumCalculator.java
+ chapter07.ForkJoinSumCalculator
+chapter07/ParallelStreamsHarness.java
+ chapter07.ParallelStreamsHarness
